@@ -1,8 +1,9 @@
 ## 👋𝐻𝑜𝑙𝑎! 𝑀𝑖 𝑛𝑜𝑚𝑏𝑟𝑒 𝑒𝑠 [𝑀𝑒𝑙𝑖𝑠𝑠𝑎 𝐻𝑒𝑙𝑙𝑟𝑖𝑔𝑙](https://www.linkedin.com/in/melissa-hellrigl-908441134/) 𝑦 𝑠𝑜𝑦 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝑊𝑒𝑏 𝐹𝑢𝑙𝑙 𝑆𝑡𝑎𝑐𝑘. 
 
-Me apasiona el desarrollo web y estar en constante dedicación y aprendizaje. Tengo mucha disposición a cooperar y trabajar en equipo, también me siento comprometida con el receptor, por lo que en mis proyectos constantemente busco orientación al cliente.
+<div align="justify">Me apasiona el desarrollo web y estar en constante dedicación y aprendizaje. Tengo mucha disposición a cooperar y trabajar en equipo, también me siento comprometida con el receptor, por lo que en mis proyectos constantemente busco orientación al cliente.</div>
+</br>
+<div align="justify">Tengo experiencia en proyectos académicos reales realizados en el bootcamp de SoyHenry y también como Asistente de Enseñanza, en los que desarrollé habilidades técnicas y blancas. También cuento con 4 años de experiencia en diversas empresas en las que me desempeñé como administrativa en el área jurídico y en construcción civil, también en el área de diseño, creación y márketing. </div>
 
-Tengo experiencia en proyectos académicos reales realizados en el bootcamp de SoyHenry y también como Asistente de Enseñanza, en los que desarrollé habilidades técnicas y blancas. También cuento con 4 años de experiencia en diversas empresas en las que me desempeñé como administrativa en el área jurídico y en construcción civil, también en el área de diseño, creación y márketing. 
 
 </br>
 
