@@ -2,7 +2,7 @@
 
 <div align="justify">Me apasiona el desarrollo web y estar en constante dedicación y aprendizaje. Tengo mucha disposición a cooperar y trabajar en equipo, también me siento comprometida con el receptor, por lo que en mis proyectos constantemente busco orientación al cliente.</div>
 </br>
-<div align="justify">Tengo experiencia en proyectos académicos reales realizados en el bootcamp de SoyHenry y también como Asistente de Enseñanza, en los que desarrollé habilidades técnicas y blancas. También cuento con 4 años de experiencia en diversas empresas en las que me desempeñé como administrativa en el área jurídico y en construcción civil, también en el área de diseño, creación y márketing. </div>
+<div align="justify">Tengo experiencia en proyectos académicos reales realizados en el bootcamp de SoyHenry y también como Asistente de Enseñanza, en los que desarrollé habilidades técnicas y blancas. También cuento con 5 años de experiencia en diversas empresas en las que me desempeñé como administrativa en el área jurídico y en construcción civil, también en el área de diseño, creación y márketing. </div>
 
 
 </br>
