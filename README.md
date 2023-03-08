@@ -13,9 +13,9 @@ JavaScript | React | Redux | Node | Sequelize | Express | SQL | CSS | HTML | Fig
 </br>
 
 ## 📊GitHub Stats:
-<p align="center">![](https://github-readme-stats.vercel.app/api?username=MelHellrigl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)</p><br/>
+<div display="flex" flex-direction="column" align="center">![](https://github-readme-stats.vercel.app/api?username=MelHellrigl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MelHellrigl&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MelHellrigl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MelHellrigl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</div>
 
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MelHellrigl&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Melissa Hellrigl's github stats" height="220px" /></p>
 
