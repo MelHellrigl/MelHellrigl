@@ -20,7 +20,7 @@ JavaScript | React | Redux | Node | Sequelize | Express | SQL | CSS | HTML | Fig
 ## 📞𝐶𝑜𝑛𝑡𝑎́𝑐𝑡𝑎𝑚𝑒
 •	Por mi correo personal: hellriglandreamelissa@gmail.com
 
-•	Por mi linkedin: https://www.linkedin.com/in/melissa-hellrigl-908441134/
+•	Por mi linkedin: https://www.linkedin.com/in/melissahellrigldeveloper/
 
 </br>
 
