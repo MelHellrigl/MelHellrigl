@@ -1,4 +1,4 @@
-## 👋𝐻𝑜𝑙𝑎! 𝑀𝑖 𝑛𝑜𝑚𝑏𝑟𝑒 𝑒𝑠 [𝑀𝑒𝑙𝑖𝑠𝑠𝑎 𝐻𝑒𝑙𝑙𝑟𝑖𝑔𝑙](https://www.linkedin.com/in/melissa-hellrigl-908441134/) 𝑦 𝑠𝑜𝑦 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝑊𝑒𝑏 𝐹𝑢𝑙𝑙 𝑆𝑡𝑎𝑐𝑘. 
+## 👋𝐻𝑜𝑙𝑎! 𝑀𝑖 𝑛𝑜𝑚𝑏𝑟𝑒 𝑒𝑠 [𝑀𝑒𝑙𝑖𝑠𝑠𝑎 𝐻𝑒𝑙𝑙𝑟𝑖𝑔𝑙](https://www.linkedin.com/in/melissahellrigldeveloper/) 𝑦 𝑠𝑜𝑦 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝑊𝑒𝑏 𝐹rontend. 
 
 <div align="justify">Me apasiona el desarrollo web y estar en constante dedicación y aprendizaje. Tengo mucha disposición a cooperar y trabajar en equipo, también me siento comprometida con el receptor, por lo que en mis proyectos constantemente busco orientación al cliente.</div>
 </br>
@@ -8,7 +8,8 @@
 </br>
 
 ## 💻𝐿𝑒𝑛𝑔𝑢𝑎𝑗𝑒𝑠 𝑦 𝐻𝑒𝑟𝑟𝑎𝑚𝑖𝑒𝑛𝑡𝑎𝑠
-JavaScript | React | Redux | Node | Sequelize | Express | SQL | CSS | HTML | Figma | Chakra Ui | Visual Studio | GitKraken
+JavaScript | React | Redux | Node | NextJs | Tailwind | AstroJs | SCRUM | CSS | HTML | Figma | Chakra Ui
+
 
 </br>
 
